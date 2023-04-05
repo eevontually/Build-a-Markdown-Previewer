@@ -1,5 +1,5 @@
-
-
+marked.setOptions({
+breaks: true});
 
 function updatePreview() {
   let previewElement = document.getElementById("preview");   
