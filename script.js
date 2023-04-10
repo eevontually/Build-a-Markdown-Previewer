@@ -35,7 +35,7 @@ return multiLineCodeBlock;
      - With different indentation levels.
         - That look like this.
 
-\`And there are numbererd lists too.\`
+\`And there are numbered lists too.\`
 1. Use just 1s if you want! 
 1. But the list goes on...
 - Even if you use dashes or
