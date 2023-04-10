@@ -45,7 +45,7 @@ return multiLineCodeBlock;
   
 > Block Quotes
 
-![image](https://images.pexels.com/photos/40815/youth-active-jump-happy-40815.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=300&amp;h=300&amp;dpr=1)
+![image](https://images.pexels.com/photos/40815/youth-active-jump-happy-40815.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=100&amp;h=150&amp;dpr=1)
 
 
 `;
